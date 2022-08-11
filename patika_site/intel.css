@@ -1,0 +1,85 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1280px;
+    height: 90px;
+    
+    /*margin-left: auto;
+    margin-right: auto;*/
+    margin: 0 25px ;
+    margin-bottom: 4px;
+    margin-top: 10px;
+}
+
+.content{
+    width: 800px;
+    float: left;
+}
+.clear{
+    clear: left;
+}
+.box{
+    width: 300px;
+    height: 80px;
+    padding: 10px;
+    float: left;
+    margin: 0 0.3%;
+}
+
+.bg-aqua1{
+    background-color:rgb(160, 231, 231);
+    width: 421px;
+    margin-right: 0.1px;
+    margin-left: 25px;
+}
+
+.bg-aqua2{
+    background-color: rgb(126, 212, 212);
+    margin-right: 0.1px;
+}
+.bg-aqua3{
+    background-color: rgb(104, 174, 174);
+    width: 494px;
+    
+}
+.bg-all{
+    background-color: rgb(235, 229, 229);
+}
+#orta{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.s-input{
+      width: 400px;
+      margin: 0px auto;
+      position: relative;
+      margin-top: -8px;
+      text-align: center;
+
+}
+.button{
+    width: 120px;
+    margin: 0px auto;
+    position: relative;
+    margin-top: -8px;
+    text-align: center;
+}
+.buttom{
+    width: 170px;
+    margin: 0px auto;
+    position: relative;
+    margin-top: -8px;
+    text-align: center;
+}
+.boyutlandirma img{
+width: 370px;
+height: 140px;
+}
+.clear p{
+    text-align:center;
+    position:fixed ;
+    margin-left: 580px;
+}
